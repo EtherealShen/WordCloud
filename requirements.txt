@@ -1,0 +1,8 @@
+lxml 
+requests 
+jieba 
+numpy 
+Pillow
+openpyxl 
+wordcloud 
+pyecharts
